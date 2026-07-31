@@ -8,6 +8,9 @@ Bu proje, Java programlama dili kullanılarak geliştirilen bir masaüstü müzi
 - Şarkı Silme
 - Şarkıları Görüntüleme
 - Şarkıları Güncelleme
+- Sanatçı Ekleme
+- Sanatçı Görüntüleme
+- Sanatçı Güncelleme
 - Kullanıcı dostu arayüz
 
 ## Kullanılan Teknolojiler
@@ -23,11 +26,11 @@ Bu proje, Java programlama dili kullanılarak geliştirilen bir masaüstü müzi
 <tr>
 <td align="center">
 <b>Kullanıcı Girişi</b><br>
-<img src="ScreenShots/anamenu.png" width="450">
+<img src="Screenshots/anamenu.png" width="450">
 </td>
 <td align="center">
 <b>Kullanıcı Paneli</b><br>
-<img src="ScreenShots/giris.png" width="450">
+<img src="Screenshots/giris.png" width="450">
 </td>
 </tr>
 </table>
@@ -58,6 +61,9 @@ This project is a desktop music player application developed using Java. It prov
 - Delete songs
 - View songs
 - Update song information
+- Add artist
+- View artist
+- Update artist
 - User-friendly interface
 
 ## Technologies Used
